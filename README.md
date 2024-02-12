@@ -1,1 +1,2 @@
-# Topo-CNN
+# Topo-CNN           
+This repositary comprises of a number of files. Feature_Extraction is a sample code of how to extract topological features from images, Machine_Learning.py is a file that contains a sample   code that can be used to bulid Machine Learning model(XGBoost, Random Forest, MLP) to classify medical images. Topo-CNN.py contains a code that is used to integrated both the Vanilla-CNN features and TDA features, and finally Vanilla_CNN.py comprises of a code of our basic pretrained CNN model e.g ResNet50, VGG16, ResNet101 etc 
